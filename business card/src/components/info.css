@@ -1,0 +1,42 @@
+
+.info-img{
+  width: 41px;
+  height: 434px;
+  border-radius: 34px;
+}
+
+.head{
+  text-align: center;
+  line-height:.02px; 
+}
+
+.head .occupation{
+  font-weight: 50;
+  padding-top: 2px;
+  font-size: small;
+  color: #F3BF99 ;
+}
+
+.head .website{
+  color: #F5F5F5;
+  font-weight: 100;
+  font-size:small ;
+  padding-top: px;
+
+}
+div > button{
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 8px;
+width: 247px;
+height: 34px;
+background: #FFFFFF;
+border: 1px solid #D1D5DB;
+border-radius: 6px;
+margin-left: 28px;
+
+}
+
